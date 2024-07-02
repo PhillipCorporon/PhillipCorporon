@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhillipCorporon, this is my college gibhub account
 - 👀 I’m interested in game creation and programming
-- 🌱 I’m currently learning C sharp, pythin and godot/gdscript
+- 🌱 I’m currently learning C sharp, python and godot/gdscript
 - 💞️ I’m looking to collaborate on anything for college
 - 📫 How to reach me: phillipcorporon@hotmail.com or on discord @bisrak
 - ⚡ Fun fact: Started programming in the beginning of 2024
