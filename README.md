@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PhillipCorporon, this is my college gibhub account
+- 👋 Hi, I’m @PhillipCorporon, this is my college github account
 - 👀 I’m interested in game creation and programming
 - 🌱 I’m currently learning C sharp, python and godot/gdscript
 - 💞️ I’m looking to collaborate on anything for college
